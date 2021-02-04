@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto Senac", "Projeto Senac.csproj", "{DF8445B4-4600-456B-8939-38A73218A26D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8445B4-4600-456B-8939-38A73218A26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8445B4-4600-456B-8939-38A73218A26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8445B4-4600-456B-8939-38A73218A26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8445B4-4600-456B-8939-38A73218A26D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BC6BCB0-E063-4511-BA6C-0418057D9D62}
+	EndGlobalSection
+EndGlobal
